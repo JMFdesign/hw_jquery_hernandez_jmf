@@ -1,4 +1,5 @@
 
 $(document).ready(function () {
-    $('img').remove();
+    var headings = document.getElementByTag('h2');
+
 });
