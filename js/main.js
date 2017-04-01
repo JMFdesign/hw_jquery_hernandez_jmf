@@ -1,4 +1,8 @@
 
 $(document).ready(function () {
-    $('img').remove();
+
+    var paragraphs = $('p');
+
+    paragraphs.css('color', 'white').css('background-color', 'black').css('font-family', 'cursive');
+
 });
