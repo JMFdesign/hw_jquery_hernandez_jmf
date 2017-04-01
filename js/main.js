@@ -1,7 +1,6 @@
 
 $(document).ready(function () {
 
-    var paragraphs = document.getElementsByTagName('p');
-
+    var paragraphs = $('p');
 
 });
